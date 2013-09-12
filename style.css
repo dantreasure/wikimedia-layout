@@ -1,13 +1,14 @@
 .title_column {
 	position: fixed;
-	width: 40%;
+	width: 370px;
 	height: 100%;
 }
 .project_list {
+	margin-right: ;
 	display: inline;
 	float: right;
-	width: 60%;
-	padding: 5px;
+	width: 400px;
+
 }
 .item {
 	width: 130px;
@@ -17,8 +18,10 @@
 	float: right;
 }
 h1 {
+	padding: 0px;
+	margin: 5px 5px 5px 5px;
 	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
-	font-size: 61pt;
+	font-size: 55pt;
 }
 p {
 	font-size: 10pt;
