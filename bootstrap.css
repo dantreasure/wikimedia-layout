@@ -4067,6 +4067,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 @media (min-width: 768px) {
   .navbar-header {
+
     float: left;
   }
 }
@@ -4183,8 +4184,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   padding: 15px 15px;
-  font-size: 13px;
-  line-height: 13px;
+  font-size: 15px;
+  line-height: 15px;
 }
 
 .navbar-brand:hover,
@@ -4373,7 +4374,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default {
-  margin: 0px;
+  margin: 10px 0px 20px;
   background-color: #f8f8f8;
   border-color: #e7e7e7;
 }
